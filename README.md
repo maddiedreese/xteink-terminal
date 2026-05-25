@@ -30,7 +30,7 @@ E-ink refresh is not instant. On this panel, full refreshes are roughly 1.7 seco
 
 Tested with:
 
-- XTeInk X4
+- XTeInk X4 (affiliate link: https://s.click.aliexpress.com/e/_c4Dl8mgh)
 - ESP32-C3 native firmware
 - Good Display `GDEQ0426T82` / SSD1677 e-ink panel via `GxEPD2`
 
