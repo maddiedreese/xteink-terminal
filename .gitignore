@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.venv/
+.flash-venv/
+
+.pio/
+**/.pio/
+
+firmware/
+native-firmware/ap-smoke/
+native-firmware/xteink-tamagotchi/
+
+tools/
+x4/
